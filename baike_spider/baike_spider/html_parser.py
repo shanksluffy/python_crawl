@@ -3,6 +3,7 @@ Created on 2017-7-23
 
 @author: m11wang
 '''
+#todo add lib bs4
 from bs4 import BeautifulSoup
 
 class HtmlParser(object):
